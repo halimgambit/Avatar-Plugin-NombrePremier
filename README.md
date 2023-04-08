@@ -9,6 +9,6 @@
  
  AVATAR: quel nombre tu veux
  
- vous: le 137 ou le nombre 137 ou le nombre de/du 137
+ vous: le 137 ou le nombre 137 ou le nombre de/du 137 ou le nombre premier de/du 137
 
 il n'ya pas de limite du nombre
