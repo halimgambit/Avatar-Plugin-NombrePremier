@@ -1,0 +1,10 @@
+{
+	"modules": { 
+		"NombrePremier": {
+			"version": "1.0",
+			"name": "nombrepremier",
+			"rules": ["primary number","prime number"]
+		}
+	}
+}
+			
